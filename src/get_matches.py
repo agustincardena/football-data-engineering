@@ -66,7 +66,13 @@ for match in matches:
             away_score
         )
         VALUES (%s, %s, %s, %s, %s, %s, %s)
-        ON CONFLICT (id) DO NOTHING
+        ON CONFLICT (id) DO UPDATE SET
+        date = EXCLUDED.date,
+        round_id = EXCLUDED.round_id,
+        home_team_id = EXCLUDED.home_team_id,
+        away_team_id = EXCLUDED.away_team_id,
+        home_score = EXCLUDED.home_score,
+        away_score = EXCLUDED.away_score
         """,
         (
             match_id,

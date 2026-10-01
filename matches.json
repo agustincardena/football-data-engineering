@@ -1,167 +1,5 @@
 [
     {
-        "id": "lU8z7mJb",
-        "date": "2026-08-01T15:30:00",
-        "round": "Jornada 3",
-        "home": "Estudiantes Rio Cuarto",
-        "away": "Banfield",
-        "home_score": "0",
-        "away_score": "0"
-    },
-    {
-        "id": "d0FhdW4t",
-        "date": "2026-08-01T15:30:00",
-        "round": "Jornada 3",
-        "home": "Gimnasia Mendoza",
-        "away": "Unión Santa Fe",
-        "home_score": "2",
-        "away_score": "0"
-    },
-    {
-        "id": "8K0S89ln",
-        "date": "2026-08-01T18:00:00",
-        "round": "Jornada 3",
-        "home": "Belgrano",
-        "away": "Argentinos Jrs.",
-        "home_score": "0",
-        "away_score": "1"
-    },
-    {
-        "id": "ldXp0u6E",
-        "date": "2026-08-01T18:00:00",
-        "round": "Jornada 3",
-        "home": "Estudiantes L.P.",
-        "away": "Defensa y Justicia",
-        "home_score": "3",
-        "away_score": "0"
-    },
-    {
-        "id": "IeLIl63U",
-        "date": "2026-08-01T20:30:00",
-        "round": "Jornada 3",
-        "home": "Racing Club",
-        "away": "Tigre",
-        "home_score": "1",
-        "away_score": "3"
-    },
-    {
-        "id": "lGT1hl45",
-        "date": "2026-08-02T14:30:00",
-        "round": "Jornada 3",
-        "home": "Aldosivi",
-        "away": "Gimnasia L.P.",
-        "home_score": "1",
-        "away_score": "2"
-    },
-    {
-        "id": "d2paxxE7",
-        "date": "2026-08-02T14:30:00",
-        "round": "Jornada 3",
-        "home": "Deportivo Riestra",
-        "away": "Barracas Central",
-        "home_score": "0",
-        "away_score": "1"
-    },
-    {
-        "id": "rckJsXkm",
-        "date": "2026-08-02T17:00:00",
-        "round": "Jornada 3",
-        "home": "Newell's",
-        "away": "Boca Jrs.",
-        "home_score": "2",
-        "away_score": "2"
-    },
-    {
-        "id": "dtX9jSYH",
-        "date": "2026-08-02T19:15:00",
-        "round": "Jornada 3",
-        "home": "River Plate",
-        "away": "Rosario Central",
-        "home_score": "0",
-        "away_score": "1"
-    },
-    {
-        "id": "IZqrxTJO",
-        "date": "2026-08-02T21:30:00",
-        "round": "Jornada 3",
-        "home": "Lanús",
-        "away": "Instituto",
-        "home_score": "0",
-        "away_score": "1"
-    },
-    {
-        "id": "Ms7r5RmB",
-        "date": "2026-08-03T16:45:00",
-        "round": "Jornada 3",
-        "home": "Sarmiento",
-        "away": "Independiente Rivadavia",
-        "home_score": "2",
-        "away_score": "1"
-    },
-    {
-        "id": "A9tzvkkC",
-        "date": "2026-08-03T19:00:00",
-        "round": "Jornada 3",
-        "home": "Platense",
-        "away": "Talleres",
-        "home_score": "0",
-        "away_score": "4"
-    },
-    {
-        "id": "lfhRuBKa",
-        "date": "2026-08-03T19:00:00",
-        "round": "Jornada 3",
-        "home": "Vélez Sarsfield",
-        "away": "Independiente",
-        "home_score": "1",
-        "away_score": "0"
-    },
-    {
-        "id": "UDD0fAZh",
-        "date": "2026-08-03T21:15:00",
-        "round": "Jornada 3",
-        "home": "Central Córdoba",
-        "away": "San Lorenzo",
-        "home_score": "1",
-        "away_score": "0"
-    },
-    {
-        "id": "I90i35IN",
-        "date": "2026-08-03T21:15:00",
-        "round": "Jornada 3",
-        "home": "Huracán",
-        "away": "Atl. Tucumán",
-        "home_score": "0",
-        "away_score": "0"
-    },
-    {
-        "id": "0hpMzPx3",
-        "date": "2026-08-05T19:00:00",
-        "round": "Jornada 2",
-        "home": "Boca Jrs.",
-        "away": "Estudiantes L.P.",
-        "home_score": "1",
-        "away_score": "0"
-    },
-    {
-        "id": "zBb4m2M8",
-        "date": "2026-08-05T21:15:00",
-        "round": "Jornada 2",
-        "home": "Tigre",
-        "away": "Belgrano",
-        "home_score": "0",
-        "away_score": "0"
-    },
-    {
-        "id": "MocfMPN9",
-        "date": "2026-08-06T19:00:00",
-        "round": "Jornada 2",
-        "home": "Unión Santa Fe",
-        "away": "Lanús",
-        "home_score": "2",
-        "away_score": "1"
-    },
-    {
         "id": "bLNzWfhR",
         "date": "2026-08-07T19:30:00",
         "round": "Jornada 4",
@@ -977,8 +815,8 @@
         "round": "Jornada 10",
         "home": "Central Córdoba",
         "away": "Defensa y Justicia",
-        "home_score": null,
-        "away_score": null
+        "home_score": "2",
+        "away_score": "2"
     },
     {
         "id": "88rtsky9",
@@ -986,8 +824,8 @@
         "round": "Jornada 10",
         "home": "Racing Club",
         "away": "Sarmiento",
-        "home_score": null,
-        "away_score": null
+        "home_score": "3",
+        "away_score": "1"
     },
     {
         "id": "U1eESkMF",
@@ -995,8 +833,8 @@
         "round": "Jornada 10",
         "home": "Gimnasia L.P.",
         "away": "Banfield",
-        "home_score": null,
-        "away_score": null
+        "home_score": "2",
+        "away_score": "2"
     },
     {
         "id": "KS5USbGb",
@@ -1004,8 +842,8 @@
         "round": "Jornada 10",
         "home": "Gimnasia Mendoza",
         "away": "Deportivo Riestra",
-        "home_score": null,
-        "away_score": null
+        "home_score": "0",
+        "away_score": "0"
     },
     {
         "id": "nsMA8UUq",
@@ -1013,8 +851,8 @@
         "round": "Jornada 10",
         "home": "Unión Santa Fe",
         "away": "Independiente",
-        "home_score": null,
-        "away_score": null
+        "home_score": "1",
+        "away_score": "2"
     },
     {
         "id": "UPw1Joq2",
@@ -1022,8 +860,8 @@
         "round": "Jornada 10",
         "home": "River Plate",
         "away": "Huracán",
-        "home_score": null,
-        "away_score": null
+        "home_score": "1",
+        "away_score": "2"
     },
     {
         "id": "r9FJ68ad",
@@ -1031,8 +869,8 @@
         "round": "Jornada 10",
         "home": "Instituto",
         "away": "Talleres",
-        "home_score": null,
-        "away_score": null
+        "home_score": "3",
+        "away_score": "1"
     },
     {
         "id": "GfawRxoB",
@@ -1040,8 +878,8 @@
         "round": "Jornada 10",
         "home": "San Lorenzo",
         "away": "Boca Jrs.",
-        "home_score": null,
-        "away_score": null
+        "home_score": "0",
+        "away_score": "2"
     },
     {
         "id": "rmSCAH0U",
@@ -1049,8 +887,8 @@
         "round": "Jornada 10",
         "home": "Platense",
         "away": "Newell's",
-        "home_score": null,
-        "away_score": null
+        "home_score": "0",
+        "away_score": "1"
     },
     {
         "id": "8n75UBi3",
@@ -1058,8 +896,8 @@
         "round": "Jornada 10",
         "home": "Rosario Central",
         "away": "Argentinos Jrs.",
-        "home_score": null,
-        "away_score": null
+        "home_score": "1",
+        "away_score": "0"
     },
     {
         "id": "GYoluT5L",
@@ -1067,8 +905,8 @@
         "round": "Jornada 10",
         "home": "Belgrano",
         "away": "Estudiantes Rio Cuarto",
-        "home_score": null,
-        "away_score": null
+        "home_score": "2",
+        "away_score": "1"
     },
     {
         "id": "zNO4CwWH",
@@ -1076,8 +914,8 @@
         "round": "Jornada 10",
         "home": "Vélez Sarsfield",
         "away": "Tigre",
-        "home_score": null,
-        "away_score": null
+        "home_score": "3",
+        "away_score": "2"
     },
     {
         "id": "dCugL7Ek",
@@ -1085,8 +923,8 @@
         "round": "Jornada 10",
         "home": "Aldosivi",
         "away": "Atl. Tucumán",
-        "home_score": null,
-        "away_score": null
+        "home_score": "1",
+        "away_score": "0"
     },
     {
         "id": "xSbMQTjS",
@@ -1094,8 +932,8 @@
         "round": "Jornada 10",
         "home": "Barracas Central",
         "away": "Independiente Rivadavia",
-        "home_score": null,
-        "away_score": null
+        "home_score": "0",
+        "away_score": "1"
     },
     {
         "id": "n1hNUKon",
@@ -1103,8 +941,8 @@
         "round": "Jornada 10",
         "home": "Lanús",
         "away": "Estudiantes L.P.",
-        "home_score": null,
-        "away_score": null
+        "home_score": "2",
+        "away_score": "1"
     },
     {
         "id": "8WQSXpbe",
@@ -1112,6 +950,15 @@
         "round": "Jornada 11",
         "home": "Independiente",
         "away": "Instituto",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "id": "ltZzWOS7",
+        "date": "2026-10-02T21:30:00",
+        "round": "Jornada 11",
+        "home": "Boca Jrs.",
+        "away": "Unión Santa Fe",
         "home_score": null,
         "away_score": null
     },
@@ -1152,29 +999,11 @@
         "away_score": null
     },
     {
-        "id": "GENB2d3n",
-        "date": "2026-10-03T19:15:00",
-        "round": "Jornada 11",
-        "home": "Argentinos Jrs.",
-        "away": "Tigre",
-        "home_score": null,
-        "away_score": null
-    },
-    {
         "id": "SfMz1qSs",
-        "date": "2026-10-03T21:30:00",
+        "date": "2026-10-04T14:45:00",
         "round": "Jornada 11",
         "home": "Huracán",
         "away": "Aldosivi",
-        "home_score": null,
-        "away_score": null
-    },
-    {
-        "id": "WOz5654K",
-        "date": "2026-10-04T14:45:00",
-        "round": "Jornada 11",
-        "home": "Sarmiento",
-        "away": "River Plate",
         "home_score": null,
         "away_score": null
     },
@@ -1188,11 +1017,11 @@
         "away_score": null
     },
     {
-        "id": "ltZzWOS7",
+        "id": "GENB2d3n",
         "date": "2026-10-04T19:15:00",
         "round": "Jornada 11",
-        "home": "Boca Jrs.",
-        "away": "Unión Santa Fe",
+        "home": "Argentinos Jrs.",
+        "away": "Tigre",
         "home_score": null,
         "away_score": null
     },
@@ -1243,7 +1072,7 @@
     },
     {
         "id": "YDGs8wcM",
-        "date": "2026-10-11T17:00:00",
+        "date": "2026-10-09T14:30:00",
         "round": "Jornada 12",
         "home": "Aldosivi",
         "away": "Sarmiento",
@@ -1251,8 +1080,35 @@
         "away_score": null
     },
     {
+        "id": "QsUQBLcc",
+        "date": "2026-10-09T18:00:00",
+        "round": "Jornada 12",
+        "home": "Gimnasia L.P.",
+        "away": "Atl. Tucumán",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "id": "Cv4icMr4",
+        "date": "2026-10-09T19:30:00",
+        "round": "Jornada 12",
+        "home": "Instituto",
+        "away": "Boca Jrs.",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "id": "4E0qarEi",
+        "date": "2026-10-09T21:45:00",
+        "round": "Jornada 12",
+        "home": "Unión Santa Fe",
+        "away": "Defensa y Justicia",
+        "home_score": null,
+        "away_score": null
+    },
+    {
         "id": "ncIZ9aS9",
-        "date": "2026-10-11T17:00:00",
+        "date": "2026-10-10T14:45:00",
         "round": "Jornada 12",
         "home": "Barracas Central",
         "away": "Huracán",
@@ -1261,7 +1117,7 @@
     },
     {
         "id": "j7pTdhXN",
-        "date": "2026-10-11T17:00:00",
+        "date": "2026-10-10T17:00:00",
         "round": "Jornada 12",
         "home": "Central Córdoba",
         "away": "Estudiantes L.P.",
@@ -1269,38 +1125,29 @@
         "away_score": null
     },
     {
-        "id": "QsUQBLcc",
-        "date": "2026-10-11T17:00:00",
+        "id": "vie8gvrT",
+        "date": "2026-10-10T19:15:00",
         "round": "Jornada 12",
-        "home": "Gimnasia L.P.",
-        "away": "Atl. Tucumán",
+        "home": "Tigre",
+        "away": "Banfield",
         "home_score": null,
         "away_score": null
     },
     {
-        "id": "SK5J1QBM",
-        "date": "2026-10-11T17:00:00",
+        "id": "hbcE2HKq",
+        "date": "2026-10-10T21:30:00",
         "round": "Jornada 12",
-        "home": "Gimnasia Mendoza",
-        "away": "Newell's",
+        "home": "River Plate",
+        "away": "Estudiantes Rio Cuarto",
         "home_score": null,
         "away_score": null
     },
     {
-        "id": "Cv4icMr4",
-        "date": "2026-10-11T17:00:00",
+        "id": "MkyaiWfo",
+        "date": "2026-10-11T14:45:00",
         "round": "Jornada 12",
-        "home": "Instituto",
-        "away": "Boca Jrs.",
-        "home_score": null,
-        "away_score": null
-    },
-    {
-        "id": "pfFSbE2B",
-        "date": "2026-10-11T17:00:00",
-        "round": "Jornada 12",
-        "home": "Lanús",
-        "away": "Vélez Sarsfield",
+        "home": "San Lorenzo",
+        "away": "Deportivo Riestra",
         "home_score": null,
         "away_score": null
     },
@@ -1314,24 +1161,6 @@
         "away_score": null
     },
     {
-        "id": "QBeM0ekd",
-        "date": "2026-10-11T17:00:00",
-        "round": "Jornada 12",
-        "home": "Racing Club",
-        "away": "Belgrano",
-        "home_score": null,
-        "away_score": null
-    },
-    {
-        "id": "hbcE2HKq",
-        "date": "2026-10-11T17:00:00",
-        "round": "Jornada 12",
-        "home": "River Plate",
-        "away": "Estudiantes Rio Cuarto",
-        "home_score": null,
-        "away_score": null
-    },
-    {
         "id": "byxulI5j",
         "date": "2026-10-11T17:00:00",
         "round": "Jornada 12",
@@ -1341,17 +1170,17 @@
         "away_score": null
     },
     {
-        "id": "MkyaiWfo",
-        "date": "2026-10-11T17:00:00",
+        "id": "QBeM0ekd",
+        "date": "2026-10-11T19:15:00",
         "round": "Jornada 12",
-        "home": "San Lorenzo",
-        "away": "Deportivo Riestra",
+        "home": "Racing Club",
+        "away": "Belgrano",
         "home_score": null,
         "away_score": null
     },
     {
         "id": "6wc0e0DG",
-        "date": "2026-10-11T17:00:00",
+        "date": "2026-10-11T21:30:00",
         "round": "Jornada 12",
         "home": "Talleres",
         "away": "Independiente",
@@ -1359,20 +1188,29 @@
         "away_score": null
     },
     {
-        "id": "vie8gvrT",
-        "date": "2026-10-11T17:00:00",
+        "id": "pfFSbE2B",
+        "date": "2026-10-12T16:00:00",
         "round": "Jornada 12",
-        "home": "Tigre",
-        "away": "Banfield",
+        "home": "Lanús",
+        "away": "Vélez Sarsfield",
         "home_score": null,
         "away_score": null
     },
     {
-        "id": "4E0qarEi",
-        "date": "2026-10-11T17:00:00",
+        "id": "SK5J1QBM",
+        "date": "2026-10-12T18:30:00",
         "round": "Jornada 12",
-        "home": "Unión Santa Fe",
-        "away": "Defensa y Justicia",
+        "home": "Gimnasia Mendoza",
+        "away": "Newell's",
+        "home_score": null,
+        "away_score": null
+    },
+    {
+        "id": "WOz5654K",
+        "date": "2026-10-14T19:00:00",
+        "round": "Jornada 11",
+        "home": "Sarmiento",
+        "away": "River Plate",
         "home_score": null,
         "away_score": null
     },
